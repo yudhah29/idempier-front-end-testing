@@ -13,7 +13,7 @@ function LoginPage() {
 
     const initValue: LoginReq = {
         userName: '', password: '', parameters: {
-            clientId: 11, roleId: 102, organizationId: 11, warehouseId: 103, language: 'en_US'
+            clientId: 11, roleId: 102, organizationId: 11, warehouseId: '', language: 'en_US'
         }
     }
     const userSchema = Yup.object().shape({

@@ -14,6 +14,9 @@ import "primereact/resources/primereact.min.css";
 //icons
 import "primeicons/primeicons.css";                                         
         
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+
 
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(

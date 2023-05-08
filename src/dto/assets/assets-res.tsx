@@ -1,4 +1,4 @@
-export interface LoginReq {
+export interface AssetRes {
     id : number,
     uid : number,
     IsDisposed : false,
